@@ -41,6 +41,7 @@ Tables and Bookcases are the only sub-categories operating at a net loss, driven
 Technology delivers the strongest profit margin relative to its sales volume.
 West region leads in sales contribution, followed closely by East.
 Sales show a clear seasonal spike in November–December, useful for inventory and marketing planning.
+
 💡 Recommendations
 
 Review discounting policy on Tables and Bookcases to restore profitability.
