@@ -1,5 +1,7 @@
 # Task-2-elevate-lab-internship
+
 Name:[Palak Saini]
+
 📊 Superstore Sales Dashboard — Power BI
 Elevate Labs | Data Analyst Internship — Task 2: Data Visualization and Storytelling
 🎯 Objective
