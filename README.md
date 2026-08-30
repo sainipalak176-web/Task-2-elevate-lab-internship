@@ -41,4 +41,6 @@ Sales show a clear seasonal spike in November–December, useful for inventory a
 Review discounting policy on Tables and Bookcases to restore profitability.
 Increase marketing/inventory focus ahead of the Nov–Dec seasonal peak.
 Explore opportunities to grow sales in the Central and South regions.
+
+
 <img width="505" height="287" alt="superstore_dashboard_picture" src="https://github.com/user-attachments/assets/79a38d0e-bcaa-4aa1-bbf1-659082da8e87" />
