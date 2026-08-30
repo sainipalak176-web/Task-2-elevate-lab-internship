@@ -34,12 +34,15 @@ Sales vs Profit by Category (Clustered Bar Chart) — Compares Technology, Offic
 Profit by Sub-Category (Bar Chart, conditionally formatted) — Green bars for profitable sub-categories, red for loss-making ones (Tables, Bookcases, Supplies).
 Sales by Region (Donut Chart) — Shows the share of total sales contributed by each region.
 KPI Cards — Total Sales and Total Profit at a glance.
+
 🔑 Key Insights
+
 Tables and Bookcases are the only sub-categories operating at a net loss, driven by heavy discounting.
 Technology delivers the strongest profit margin relative to its sales volume.
 West region leads in sales contribution, followed closely by East.
 Sales show a clear seasonal spike in November–December, useful for inventory and marketing planning.
 💡 Recommendations
+
 Review discounting policy on Tables and Bookcases to restore profitability.
 Increase marketing/inventory focus ahead of the Nov–Dec seasonal peak.
 Explore opportunities to grow sales in the Central and South regions.
