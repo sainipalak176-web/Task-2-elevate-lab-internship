@@ -3,21 +3,30 @@ Name:[Palak Saini]
 📊 Superstore Sales Dashboard — Power BI
 Elevate Labs | Data Analyst Internship — Task 2: Data Visualization and Storytelling
 🎯 Objective
+
 Create visualizations that convey a compelling business story from the Superstore sales dataset — highlighting sales trends, profitability by category, and regional performance.
 🛠️ Tools Used
+
 Power BI Desktop
 Dataset: Sample Superstore Dataset (Kaggle)
+
 📁 Files in this Repository
 File
 Description
+
 Superstore_dashboard.pbix
 Power BI dashboard file
 Superstore Dashboard.pdf
 Exported visual report (PDF)
+
 Sample - Superstore.csv
+
 Raw dataset used
+
 📈 Dashboard Overview
+
 The dashboard includes 4 key visuals plus summary KPI cards:
+
 Monthly Sales Trend (Line Chart) — Tracks sales performance across the year, revealing seasonal spikes (Nov–Dec).
 Sales vs Profit by Category (Clustered Bar Chart) — Compares Technology, Office Supplies, and Furniture on both revenue and profitability.
 Profit by Sub-Category (Bar Chart, conditionally formatted) — Green bars for profitable sub-categories, red for loss-making ones (Tables, Bookcases, Supplies).
